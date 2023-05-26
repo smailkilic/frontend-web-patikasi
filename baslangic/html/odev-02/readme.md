@@ -1,4 +1,4 @@
-### odev-01
+### odev-02
 
 ***İçerik Patika.dev'den alınmıştır. Beni yansıtmamaktadır.***
 
